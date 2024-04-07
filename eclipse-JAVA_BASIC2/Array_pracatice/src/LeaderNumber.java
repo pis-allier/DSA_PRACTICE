@@ -1,4 +1,6 @@
 public class LeaderNumber
+
+// An element is leader if it is greater than all the elements to its right side.
 {
  public static void main(String[] args)
     {
