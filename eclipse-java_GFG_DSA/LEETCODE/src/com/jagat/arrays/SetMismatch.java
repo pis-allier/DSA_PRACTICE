@@ -1,4 +1,4 @@
-package com.jagat.Array;
+package com.jagat.arrays;
 
 import java.util.Arrays;
 

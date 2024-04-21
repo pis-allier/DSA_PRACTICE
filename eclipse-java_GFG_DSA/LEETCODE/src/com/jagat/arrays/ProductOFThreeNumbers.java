@@ -1,4 +1,4 @@
-package com.jagat.Array;
+package com.jagat.arrays;
 
 /*
  * Given an integer array nums, find three numbers whose product is maximum and return the maximum product.

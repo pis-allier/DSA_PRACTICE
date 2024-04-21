@@ -1,4 +1,4 @@
-package com.jagat.Array;
+package com.jagat.arrays;
 
 /*
  * You have a long flowerbed in which some of the plots are planted, and some are not. 

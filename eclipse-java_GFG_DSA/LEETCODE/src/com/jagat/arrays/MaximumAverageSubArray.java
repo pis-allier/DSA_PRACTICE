@@ -1,4 +1,4 @@
-package com.jagat.Array;
+package com.jagat.arrays;
 
 /*
  * You are given an integer array nums consisting of n elements, and an integer k.

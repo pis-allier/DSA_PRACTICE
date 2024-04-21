@@ -1,4 +1,4 @@
-package com.jagat.Array;
+package com.jagat.arrays;
 
 /*
  * Given an unsorted array of integers nums, return the length of the longest continuous increasing subsequence (i.e. subarray). 
