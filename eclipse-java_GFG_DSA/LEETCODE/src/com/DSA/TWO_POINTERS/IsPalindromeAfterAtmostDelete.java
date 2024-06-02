@@ -1,8 +1,5 @@
 package com.DSA.TWO_POINTERS;
 
-import java.util.HashMap;
-import java.util.Map;
-
 /*
  * Given a string s, return true if the s can be palindrome after deleting at most one character from it.
 Example 1:
